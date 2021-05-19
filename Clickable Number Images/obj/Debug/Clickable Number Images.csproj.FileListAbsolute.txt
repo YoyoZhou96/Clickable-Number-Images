@@ -1,0 +1,30 @@
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.exe.config
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.exe
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.pdb
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csprojAssemblyReference.cache
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\MainWindow.g.cs
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\App.g.cs
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images_MarkupCompile.cache
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images_MarkupCompile.lref
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\MainWindow.baml
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.g.resources
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable_Number_Images.Properties.Resources.resources
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csproj.GenerateResource.cache
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csproj.CoreCompileInputs.cache
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.exe
+C:\Users\Charlene\source\repos\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.pdb
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.exe.config
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.exe
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.pdb
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csprojAssemblyReference.cache
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\MainWindow.g.cs
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\App.g.cs
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images_MarkupCompile.cache
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images_MarkupCompile.lref
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\MainWindow.baml
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.g.resources
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable_Number_Images.Properties.Resources.resources
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csproj.GenerateResource.cache
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csproj.CoreCompileInputs.cache
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.exe
+C:\Users\Charlene\Desktop\8010\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.pdb
